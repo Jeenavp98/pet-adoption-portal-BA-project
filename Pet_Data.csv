@@ -1,0 +1,7 @@
+﻿Pet ID,Name,Breed,Age,Gender,Adoption Status(Available / Adopted),Image URL,Description
+P001,Momo,Indian Ginger,2,Male,Available,img/momo.jpg,Energetic and playful
+P002,Bubloo,Indie White,1.5,Male,Available,img/bubloo.jpg,Calm and cuddly
+P003,Simba,Tabby,3,Male,Adopted,img/simba.jpg,Affectionate and alert
+P004,Myna,Indie Black,2.5,Female,Available,img/myna.jpg,Vocal and affectionate
+P005,Ammu,Tortoiseshell,5,Female,Available,img/ammu.jpg,"Senior cat, very gentle and wise"
+P006,Tuxie,Tuxedo,1,Male,Available,img/tuxie.jpg,Mischievous and fast learner
