@@ -43,9 +43,9 @@ Explore the folders to view data files, documentation, and visualizations.
 Open Power BI reports for interactive insights.
 Review Salesforce configurations to understand data management workflows.
 
-🙋‍♀️ About the Author
+🙋‍♀️ About Me
 
-I am a developer transitioning into a Business Analyst role, leveraging technical expertise and a passion for data-driven solutions. This project reflects my ability to combine analytical skills with a meaningful cause—pet adoption and animal welfare. I actively support a local NGO by managing social media and handling adoption, foster, and donation-related queries. My goal is to apply my skills in analysis, communication, and problem-solving to deliver impactful solutions within the Business Analyst field.
+I am Jeena V P, a developer transitioning into a Business Analyst role, leveraging technical expertise and a passion for data-driven solutions. This project reflects my ability to combine analytical skills with a meaningful cause—pet adoption and animal welfare. I actively support a local NGO by managing social media and handling adoption, foster, and donation-related queries. My goal is to apply my skills in analysis, communication, and problem-solving to deliver impactful solutions within the Business Analyst field.
 
 📄 License
 This repository is a personal project for learning and showcasing Business Analysis skills. It is open to feedback, collaboration, and improvement.
