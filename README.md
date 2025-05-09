@@ -11,6 +11,7 @@ Excel Data/: Houses the raw data files related to the project, including pet ado
 Power BI/: Includes Power BI reports and visualizations that provide insights into the adoption process and other key metrics.
 Salesforce/: Contains screenshots and related files for Salesforce configuration, including custom objects and fields used for managing adoption records.
 Diagrams/: Includes flowcharts and other visual representations of project workflows.
+UI Design/: Homepage mockup created in Figma.
 
 📊 Data Sources
 The data in this project is sourced from various NGO systems:
@@ -28,12 +29,14 @@ Salesforce: For managing adoption and donation workflows.
 DB Browser for SQLite: For handling the .db file.
 Draw.io: For creating flowcharts and visual process maps.
 Microsoft Word: For requirement documentation.
+Figma: Designing the homepage UI mockup
 
 📸 Visual Aids
 This project includes screenshots and diagrams that illustrate key components:
 
 Power BI Dashboards: Visualizations related to adoption trends, foster statuses, and donation frequencies.
 Salesforce Configuration: Custom object configurations and adoption form setups.
+Figma Homepage Mockup : Showcases how adopters, fosters, and donors will navigate the platform.
 
 ⚡ Usage Instructions
 To navigate this repository:
@@ -42,6 +45,7 @@ Clone the repository to your local machine.
 Explore the folders to view data files, documentation, and visualizations.
 Open Power BI reports for interactive insights.
 Review Salesforce configurations to understand data management workflows.
+View the Figma homepage mockup to see how adopters will engage with the portal.
 
 🙋‍♀️ About Me
 
