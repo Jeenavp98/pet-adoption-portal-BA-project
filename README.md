@@ -38,6 +38,8 @@ Power BI Dashboards: Visualizations related to adoption trends, foster statuses,
 Salesforce Configuration: Custom object configurations and adoption form setups.
 Figma Homepage Mockup : Showcases how adopters, fosters, and donors will navigate the platform.
 
+🔗 View Figma Mockup (https://www.figma.com/design/JlXSlstLJYbwA3lqfUPNwu/Pet-Adoption-Website---Home-Page-Mockup?node-id=0-1&t=cNkhWg1uwynorPxW-1)
+
 ⚡ Usage Instructions
 To navigate this repository:
 
@@ -45,7 +47,7 @@ Clone the repository to your local machine.
 Explore the folders to view data files, documentation, and visualizations.
 Open Power BI reports for interactive insights.
 Review Salesforce configurations to understand data management workflows.
-View the Figma homepage mockup to see how adopters will engage with the portal.
+Visit the Figma link to preview the homepage mockup.
 
 🙋‍♀️ About Me
 
